@@ -15,7 +15,7 @@ key = os.getenv('KEY')
 channel_id = os.getenv('CHANNEL_ID')
 
 words = ['nsfw', 'nude', 'naked', 'pussy', 'vagina', 'dick', 'cock', 'penis', 'loli', 'shota', 'child',
-         'children', 'xnxx', 'pron', 'hentai', 'asshole', 'sex', 'xxxx', 'xxx', 'pronhub', 'boob', 'boobs']
+         'children', 'xnxx', 'pron', 'hentai', 'asshole', 'sex', 'xxxx', 'xxx', 'pronhub', 'boob', 'boobs', 'xxxx']
 
 intents = discord.Intents.default()
 intents.typing = False
